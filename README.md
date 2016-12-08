@@ -3,10 +3,12 @@
 ## Checkin ##
 ## Authors ##
   * Dominic Bueno
-  
+## Note ##
+ For demo purposes, there exists a tab bar controller to switch between student view (left) and intrsuctor view (right).
 
 ## Purpose ##
    Checkin is a simple attendance app that expedites the attendance taking procedure through quick and easy to use location based Checkin Spots. It was designed with simplicity, speed and verifiability in mind. In order to have attendance taken a student must be within a certain range of the instructor. This helps instructors verify a student's presence and helps to combat some of the issues of attendance taking that currently exist at UC Berkeley.
+   
 ## Features ##
   * Instructors can set Checkin Spots using their location and adjust the range (in feet) in which attendance can be taken as well as a time limit the students have to check in.
   * Students have quick access to current Checkins and can have attendance recorded with only two presses.
