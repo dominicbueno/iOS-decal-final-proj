@@ -3,6 +3,7 @@
 ## Checkin ##
 ## Authors ##
   * Dominic Bueno
+  
 ## Note ##
  For demo purposes, there exists a tab bar controller to switch between student view (left) and intrsuctor view (right).
 
